@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 cai gi vay
 bo du
+=======
+thoi di
+>>>>>>> nhanh1
